@@ -55,6 +55,6 @@ def enviarcorreo():
 Boton1 = tkinter.Button(ventana,padx="40", pady="10", text = "Enviar", command = enviarcorreo)
 Boton1.pack()
 
-print("Correo enviado ")
+print("Correo enviado")
 
 ventana.mainloop()
